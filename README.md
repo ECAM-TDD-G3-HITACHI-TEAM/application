@@ -10,11 +10,8 @@ Le joueur commence la partie avec les caractéristiques de base :
 3. Point d’attaque = 10
 
 Les commandes existantes sont :
-1. Défendre
-Peut être utilisée à chaque tour, immunise des dégâts infligés par un ennemi.
-2. Recharger
-Augmenter son stock de munitions
-3. Attaquer
-Inflige un nombre de dégâts égal aux points d’attaque du personnage
+1. Défendre : Peut être utilisée à chaque tour, immunise des dégâts infligés par un ennemi.
+2. Recharger : Augmenter son stock de munitions
+3. Attaquer : Inflige un nombre de dégâts égal aux points d’attaque du personnage
 
 Tous les 3 ennemis vaincus, le joueur grimpe de palier et se voit récompenser d’une nouvelle compétence ou une amélioration d’une de ses caractéristiques.
