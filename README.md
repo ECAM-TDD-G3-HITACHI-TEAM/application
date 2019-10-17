@@ -5,9 +5,9 @@ Le programme sera un jeu vidéo. Il permettra à un utilisateur d’affronter di
 Le système de combat est similaire au jeu « 007 » semblable au « Pierre-papier-ciseaux ». A chaque tour le joueur doit donc entrer une des commandes disponibles pour tenter de battre son ennemi. Plusieurs types d’ennemis peuvent se présenter au joueur, chacun ayant une stratégie, des compétences et des caractéristiques différentes.
 
 Le joueur commence la partie avec les caractéristiques de base :
-Points de vie = 100
-Munitions = 0
-Point d’attaque = 10
+1. Points de vie = 100
+2. Munitions = 0
+3. Point d’attaque = 10
 
 Les commandes existantes sont :
 1. Défendre
